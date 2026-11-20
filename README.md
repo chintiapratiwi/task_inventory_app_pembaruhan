@@ -1,2 +1,2 @@
 # task_inventory_app_pembaruhan
-menambahkan fitur hapus akun dan hapus barang,dan tombol edit, dibagian admin1 ditambahkan pengeditan 
+menambahkan tombol tambah entry dibagian admin1 dan admin bisa mengedit statusnya,menambahkan fitur hapus barang dan akun
